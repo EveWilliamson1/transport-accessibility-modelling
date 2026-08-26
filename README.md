@@ -1,6 +1,6 @@
 # Public Transport Accessibility & Commuting Inequality 🚌📍
 
-**Final-Year Dissertation — BSc Financial Mathematics, Cardiff University**
+**Final-Year Project — BSc Financial Mathematics, Cardiff University**
 
 **Grade: 94% | Ranked 1st in cohort**
 
@@ -86,7 +86,7 @@ GTFS • Google Routes API • origin-to-destination modelling • generalised c
 
 📄 **[Read the full dissertation](./Modelling_Public_Transport_Accessibility_and_Commuting.pdf)**
 
-> **Academic achievement:** This dissertation received **94% and was ranked 1st in the cohort** within the Cardiff University School of Mathematics.
+> **Academic achievement:** This project received **94% and was ranked 1st in the cohort** within the Cardiff University School of Mathematics.
 
 ---
 
