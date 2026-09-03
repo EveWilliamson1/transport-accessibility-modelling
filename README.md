@@ -86,8 +86,7 @@ GTFS • Google Routes API • origin-to-destination modelling • generalised c
 
 📄 **[Read the full dissertation](./Modelling_Public_Transport_Accessibility_and_Commuting.pdf)**
 
-> **Academic achievement:** This project received **94% and was ranked 1st in the cohort** within the Cardiff University School of Mathematics.
-
+>> **Academic achievement:** This project received **94% — the 2nd highest project mark in the School of Mathematics and highest in BSc Financial Mathematics.**
 ---
 
 **Cardiff University | BSc Financial Mathematics | 2026**
