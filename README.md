@@ -2,7 +2,7 @@
 
 **Final-Year Project — BSc Financial Mathematics, Cardiff University**
 
-**Grade: 94% | Ranked 1st in cohort**
+**Grade: 94% | Ranked 2nd in School of Mathematics | 1st in BSc Financial Mathematics**
 
 This dissertation develops a mathematical **generalised cost accessibility index** to quantify the burden of commuting by public transport to Cardiff University's Cathays and Heath Park campuses.
 
